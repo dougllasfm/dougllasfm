@@ -1,10 +1,6 @@
 ### "Olá! Meu nome é Douglas Felipe Munaro, desenvolvedor full-stack web, formado em Ciência da Computação na Universidade Federal do Mato Grosso, atualmente estudo as novas bibliotecas e frameworks javascript, crio projetos para práticar e expor meus conhecimentos, em busca da primeira chance no mercado de trabalho." 👋
 
-<div align="center">
-  <a href="https://github.com/dougllasfm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougllasfm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougllasfm&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Douglas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
