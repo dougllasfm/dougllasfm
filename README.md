@@ -1,4 +1,4 @@
-Olá! Meu nome é Douglas Felipe Munaro, desenvolvedor full-stack web, formado em Ciência da Computação na Universidade Federal do Mato Grosso, atualmente estudo as novas bibliotecas e frameworks javascript, crio projetos para práticar e expor meus conhecimentos, em busca da primeira chance no mercado de trabalho.
+Olá! Meu nome é Douglas Felipe Munaro, desenvolvedor full-stack web, formado em Ciência da Computação na Universidade Federal do Mato Grosso, atualmente estudo as novas bibliotecas e frameworks javascript, crio projetos para práticar e expor meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/dougllasfm">
